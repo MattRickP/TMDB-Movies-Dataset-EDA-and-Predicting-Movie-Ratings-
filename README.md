@@ -4,5 +4,4 @@ In the "Movies_EDA_final.ipynb" notebook we examine the TMDB movie dataset in de
 To account for this, we will employ a combination of powerful machine learning algorithms, XGBoost Regressor, (Light-)GBM Regressor and RandomFOrest Regressor and further enhance the performance by combining LGBM and RandomForest into a stacking model with a Linear Regression meta-model. This approach allows us to leverage the strengths of those models and mitigate potential inaccuracies due to changes in the dataset.  
   
 The dataset used in this repository was created by Asaniczka (name on kaggle.com) and is licensed under the ODC Attribution License (ODC-By).  
-themoviedb.org  
 https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies/data
